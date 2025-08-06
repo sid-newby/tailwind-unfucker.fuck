@@ -1,0 +1,39 @@
+{
+  "name": "tailwind-unfucker",
+  "version": "1.0.0",
+  "description": "Nuclear option for fixing Tailwind CSS migration warnings",
+  "main": "lib/unfuck.js",
+  "bin": {
+    "tailwind-unfucker": "./bin/cli.js",
+    "tw-unfuck": "./bin/cli.js"
+  },
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"No tests, we live dangerously\"",
+    "prepublishOnly": "echo \"Ready to unfuck the world\""
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "migration",
+    "fix",
+    "shadcn",
+    "warnings",
+    "unfucker"
+  ],
+  "author": "Your Angry Developer",
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/tailwind-unfucker"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "bin/",
+    "lib/",
+    "templates/",
+    "README.md"
+  ]
+}
