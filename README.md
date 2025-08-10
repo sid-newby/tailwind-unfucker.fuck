@@ -1,8 +1,13 @@
 # tailwind-unfucker
+![UNFUCK](APPLY-TO-BACKSIDE.png)
 
 > Nuclear option for fixing Tailwind CSS migration warnings
 
-When Tailwind's being a little bitch about `border-border`, `bg-background`, `ring-ring` and won't shut up for 30+ minutes.
+```bash
+A HARD WORKING MEDICATED SALVE FOR EXTERNAL USE ONLY, AIDING THE MIGRATION FROM TAILWIND CLASSES WHEN MOVING TO VERSION 4X. CONTAINS INGREDIENTS KNOWN BY THE STATE OF CALIFORNIA TO CAUSE REPRODUCTIVE HARM.
+```
+
+When Tailwind's being 'LESS THAN HELPFUL' handling `border-border`, `bg-background`, `ring-ring` and won't shut up for 30+ minutes.
 
 ## The Problem
 
@@ -67,7 +72,7 @@ Run with: `npx github:yourusername/tailwind-unfucker [command]`
 
 ```bash
 # The nuclear option - fixes EVERYTHING
-npx github:yourusername/tailwind-unfucker emergency && npm run build
+npx github:sid-newby/tailwind-unfucker emergency && npm run build
 ```
 
 This applies a config with MAXIMUM SAFELIST that includes:
