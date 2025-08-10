@@ -7,7 +7,7 @@
 A HARD WORKING MEDICATED SALVE FOR EXTERNAL USE ONLY, AIDING THE MIGRATION FROM TAILWIND CLASSES WHEN MOVING TO VERSION 4X. CONTAINS INGREDIENTS KNOWN BY THE STATE OF CALIFORNIA TO CAUSE REPRODUCTIVE HARM.
 ```
 
-When Tailwind's being 'LESS THAN HELPFUL' handling `border-border`, `bg-background`, `ring-ring` and won't shut up for 30+ minutes.
+When Tailwind's being 'LESS THAN HELPFUL' handling ShadCN `border-border`, `bg-background`, `ring-ring` and won't shut up for 30+ minutes.
 
 ## The Problem
 
